@@ -1,4 +1,4 @@
-# Installing ZoKrates on Mac with Libsnark Enabled
+# Installing ZoKrates on Mac with All Proving Schemes Enabled
 
 I recently started to learn how to use ZoKrates. The default installation only supports the proving scheme G16, which is malleable, that is, an attacker can easily generate another valid proof if he/she sees a valid proof. 
 
